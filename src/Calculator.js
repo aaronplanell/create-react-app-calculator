@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ReactPoint from 'react-point';
-
-const PointTarget = ReactPoint.PointTarget
+import { PointTarget } from 'react-point';
+import './Calculator.css';
 
 class AutoScalingText extends React.Component {
   state = {
