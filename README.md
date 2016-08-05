@@ -21,5 +21,6 @@ Thanks to:
 * Michael Jackson [@mjackson](https://github.com/mjackson) for his calculator component.
 * Dan Abramov [@gaearon](https://github.com/gaearon) for help me with the adaptation to the Create React App.
  
+
 ### Contact info
 Mail: [aaronplanell@gmail.com](mailto:aaronplanell@gmail.com)
